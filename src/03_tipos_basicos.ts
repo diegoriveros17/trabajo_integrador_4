@@ -1,6 +1,7 @@
 // Tema 3: Tipos básicos
 export {};
 
+console.log(`=== Tema 3: Tipos Básicos ===`);
 // string, number y boolean
 let nombre: string = "Diego";
 let edad: number = 30;
